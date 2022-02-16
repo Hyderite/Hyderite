@@ -48,6 +48,6 @@ none cause I rather dislike them
 
 **Links:**
 
-<a href="https://hyderite.ml" target="_blank">All of my links are in here.</a>
+<a href="https://hyderite.ml/#footer" target="_blank">All of my links are in here.</a>
 
 **Fun fact: I don't pour milk when I eat cereal.**
