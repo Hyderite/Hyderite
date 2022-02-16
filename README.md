@@ -19,11 +19,11 @@ Hey there :D I'm Hyderite. I go by he/him. I am a part time front-end developer,
 
 **Here are some stuff that I'm currently working on:**
 
-1. ![NewTabb](https://newtabb.gq)
-2. ![A copy of the Microsoft login page (not a phishing site)](https://ms-copy.hyderite.repl.co)
-3. ![Revamping my portfolio](https://hyderite.ml)
-4. ![RBLXEmbed (delayed)](https://rblxembed.hyderite.repl.co)
-5. ![RBLXParty (also delayed)](https://rblxparty.hyderite.repl.co)
+1. <a href="https://newtabb.gq" target="_blank">NewTabb</a>
+2. <a href="https://ms-copy.hyderite.repl.co" target="_blank">A copy of the Microsoft login page (not a phishing site)</a>
+3. <a href="https://hyderite.ml" target="_blank">Revamping my portfolio</a>
+4. <a href="https://rblxembed.hyderite.repl.co" target="_blank">RBLXEmbed (delayed)</a>
+5. <a href="https://rblxparty.hyderite.repl.co" target="_blank">RBLXParty (also delayed)</a>
 6. PingusPongus (collab project with @savioxavier and @JipIsPlaying) also hey sky whats the url lmao
 
 **I know these languages :)**
@@ -48,37 +48,6 @@ none cause I rather dislike them
 
 **Links:**
 
-> ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCcLIs8wDV886QatPKMzxROg)
-> ![Twitter](https://img.shields.io/twitter/follow/Hyderite?label=Follow)
-> ![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-yellow?style=for-the-badge&logo=instagram&labelColor=833AB4&color=FCAF45&logoColor=white&link=https://instagram.com/hyderite)
-> ![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit&logoColor=white&link=https://replit.com/@Hyderite)
-> ![Mail](https://img.shields.io/badge/Mail-grey?style=for-the-badge&logo=gmail&link=mailto:hyderiteyt@gmail.com)
-> ![Discord](https://img.shields.io/badge/hyder[tag]3355-purple?style=for-the-badge&logo=discord&logoColor=white&label=Discord)
-> ![Roblox](https://img.shields.io/badge/Roblox-black?style=for-the-badge&logo=roblox&link=https://roblox.com/users/1337090397)
-
-
-
-<a href="https://hyderite.ml" id="btn" target="_blank">Portfolio</a>
-<style>
-.btn {
-  border: none;
-  color: #c30000;
-  background-color: #fff;
-  border-radius: 20px;
-  text-decoration: none;
-  padding: 7px;
-  transition: .3s;
-  display: block;
-  width: 175px;
-}
-
-.btn:hover {
-  transform: translateY(-5px);
-  -webkit-box-shadow: 0 2px 6px rgb(0 0 0 / 20%);
-  -moz-box-shadow: 0 2px 6px rgba(0,0,0,.2);
-  box-shadow: 0 2px 6px rgb(0 0 0 / 20%);
-  -o-box-shadow: 0 2px 6px rgb(0 0 0 / 20%);
-}
-</style>
+<a href="https://hyderite.ml" target="_blank">All of my links are in here.</a>
 
 **Fun fact: I don't pour milk when I eat cereal.**
