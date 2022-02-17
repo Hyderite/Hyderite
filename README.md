@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there :D I'm Hyderite. I go by he/him. I'm 13. I am a part time front-end developer, a YouTuber, a hobbyist photographer and a full-time student. 
+Hey there :D I'm Hyderite. I go by he/him. I'm 13. I am a part time front-end web developer, a YouTuber, a hobbyist photographer and a full-time student. 
 
 **Here are some stuff that I'm currently working on:**
 
