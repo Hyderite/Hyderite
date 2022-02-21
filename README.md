@@ -22,8 +22,8 @@ Hey there :D I'm Hyderite. I go by he/him. I'm 13. I am a part time front-end we
 1. <a href="https://newtabb.gq" target="_blank">NewTabb</a>
 2. <a href="https://ms-copy.hyderite.repl.co" target="_blank">A copy of the Microsoft login page (not a phishing site)</a>
 3. <a href="https://hyderite.ml" target="_blank">Revamping my portfolio</a>
-4. <a href="https://rblxembed.hyderite.repl.co" target="_blank">RBLXEmbed (delayed)</a>
-5. <a href="https://rblxparty.hyderite.repl.co" target="_blank">RBLXParty (also delayed)</a>
+4. <a href="https://rblxembed.tk" target="_blank">RBLXEmbed (delayed)</a>
+5. <a href="https://rblxparty.tk" target="_blank">RBLXParty (also delayed)</a>
 6. PingusPongus (collab project with @savioxavier and @JipIsPlaying) also hey sky whats the url lmao
 
 **I know these languages :)**
