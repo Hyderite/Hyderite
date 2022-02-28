@@ -39,7 +39,8 @@ Hey there :D I'm Hyderite. I go by he/him. I'm 13. I am a part time front-end we
 
 **Libraries and Frameworks:**
 
-none cause I rather dislike them
+> ![Flickity](https://flickity.metafizzy.co/)
+> ![Express](https://expressjs.com)
 
 **IDEs and code editors:**
 
