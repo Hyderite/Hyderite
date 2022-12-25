@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there :D I'm Hyderite. I go by he/him. I'm 13. I am a part time front-end web developer, a YouTuber, a hobbyist photographer and a full-time student. 
+Hey there :)
+
+I'm Hyderite. I go by he/him. I'm currently 14 (as of 2023). I am a part time front-end web developer, a YouTuber, a hobbyist photographer and a full-time student. 
 
 **Here are some stuff that I'm currently working on:**
 
 1. <a href="https://newtabb.gq" target="_blank">NewTabb</a>
 2. <a href="https://rblxparty.tk" target="_blank">RBLXParty (delayed)</a>
 3. <a href="https://exray.repl.co" target="_blank">Exray (also delayed)</a>
-4. PingusPongus (collab project with @savioxavier and @JipIsPlaying) also hey sky whats the url lmao
+4. PingusPongus (collab project with @savioxavier and @JipIsPlaying, most likely cancelled)
 5. Learning node.js
 
 **I know these languages :)**
@@ -52,3 +54,5 @@ Hey there :D I'm Hyderite. I go by he/him. I'm 13. I am a part time front-end we
 <a href="https://hyderite.ml/#footer" target="_blank">All of my links are in here.</a>
 
 **Fun fact: I don't pour milk when I eat cereal.**
+
+Updated 26/12/2022
