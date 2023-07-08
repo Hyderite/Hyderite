@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey there :)
 
-I'm Hyderite. I go by he/him. I'm currently 14 (as of 2023). I am a part time front-end web developer, a YouTuber, a hobbyist photographer and a full-time student. 
+I'm Hyderite. I go by he/him. I'm currently 15 (as of 2023). I am a part-time front-end web developer, a YouTuber, a hobbyist photographer, and a full-time student. 
 
 **Here are some stuff that I'm currently working on:**
 
