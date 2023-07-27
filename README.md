@@ -55,4 +55,4 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2023). I am a part-time fr
 
 **Fun fact: I don't pour milk when I eat cereal.**
 
-Updated 26/12/2022
+Updated July 2023
