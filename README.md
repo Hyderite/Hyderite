@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 Hey there :)
 
-I'm Hyderite. I go by he/him. I'm currently 15 (as of 2023). I am a part-time front-end web developer, a YouTuber, an aspiring airline pilot, and a high schooler. 
+I'm Hyderite. I go by he/him. I'm currently 15 (as of 2023). I am a part-time front-end web developer, a "YouTuber", an aspiring airline pilot, and a high schooler. 
 
-**Here are some stuff that I'm currently working on:**
+**Here are some projects that I'm currently working on:**
 
 1. <a href="https://newtabb.hyderite.repl.co" target="_blank">NewTabb</a>
 2. <a href="https://rblxparty.hyderite.repl.co" target="_blank">RBLXParty (delayed)</a>
@@ -40,7 +40,7 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2023). I am a part-time fr
 
 **Libraries and Frameworks:**
 
-<a href="https://flickity.metafizzy.co/" target="_blank">Flickity</a>
+<a href="https://react.dev/" target="_blank">React</a>
 <br>
 <a href="https://expressjs.com/" target="_blank">Express</a>
 
@@ -55,4 +55,4 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2023). I am a part-time fr
 
 **Fun fact: I don't pour milk when I eat cereal.**
 
-Updated August 2023
+Updated December 2023
