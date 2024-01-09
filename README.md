@@ -54,7 +54,7 @@ You can find a full list of my projects on [my portfolio](https://hyderite.dev/)
 
 **Links:**
 
-All of my links are in [my portfolio](https://hyderite.dev/).
+All of my links are in [my portfolio](https://hyderite.dev/#footer).
 
 **Stats:**
 
