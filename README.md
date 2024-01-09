@@ -21,13 +21,16 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time fr
 
 **Here are some projects that I'm currently working on:**
 
-1. <a href="https://newtabb.hyderite.repl.co" target="_blank">NewTabb</a>
-2. <a href="https://rblxparty.hyderite.repl.co" target="_blank">RBLXParty (delayed)</a>
-3. <a href="https://exray.repl.co" target="_blank">Exray (also delayed)</a>
-4. PingusPongus (collab project with @savioxavier and @JipIsPlaying, most likely cancelled)
+1. [The Autolution website](https://autolution.vercel.app/)
+2. [My new portfolio](https://new.hyderite.dev/)
+3. Migrating from Replit to Vercel + VS Code + GitHub
+4. vertistores, an Autolution project
 5. Learning node.js
+6. procrastinating ;)
 
-**I know these languages :)**
+You can find a full list of my projects on [my portfolio](https://hyderite.dev/).
+
+**I know how to code in these languages :)**
 
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,9 +43,9 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time fr
 
 **Libraries and Frameworks:**
 
-<a href="https://react.dev/" target="_blank">React</a>
-<br>
-<a href="https://expressjs.com/" target="_blank">Express</a>
+[React](https://react.dev/)
+
+[Express](https://expressjs.com/)
 
 **IDEs and code editors:**
 
@@ -51,7 +54,7 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time fr
 
 **Links:**
 
-<a href="https://hyderite.dev/#footer" target="_blank">All of my links are in here.</a>
+All of my links are in [my portfolio](https://hyderite.dev/).
 
 **Stats:**
 
