@@ -53,6 +53,9 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time fr
 
 <a href="https://hyderite.dev/#footer" target="_blank">All of my links are in here.</a>
 
+**Stats:**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyderite)](https://github.com/anuraghazra/github-readme-stats)
+
 **Fun fact: I don't pour milk when I eat cereal.**
 
 Updated January 2024
