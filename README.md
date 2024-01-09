@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey there :)
 
-I'm Hyderite. I go by he/him. I'm currently 15 (as of 2023). I am a part-time front-end web developer, a "YouTuber", an aspiring airline pilot, and a high schooler. 
+I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time front-end web developer, a "YouTuber", an aspiring airline pilot, and a high schooler. 
 
 **Here are some projects that I'm currently working on:**
 
@@ -55,4 +55,4 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2023). I am a part-time fr
 
 **Fun fact: I don't pour milk when I eat cereal.**
 
-Updated December 2023
+Updated January 2024
