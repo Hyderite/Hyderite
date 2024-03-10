@@ -21,12 +21,13 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time fr
 
 **Here are some projects that I'm currently working on:**
 
-1. [The Autolution website](https://autolution.vercel.app/)
-2. [My new portfolio](https://new.hyderite.dev/)
-3. Migrating from Replit to Vercel + VS Code + GitHub
-4. vertistores, an Autolution project
-5. Learning node.js
-6. procrastinating ;)
+1. Schoolwork
+2. [The Autolution website](https://autolution.vercel.app/)
+3. [My new portfolio](https://new.hyderite.dev/)
+4. Migrating from Replit to Vercel + VS Code + GitHub
+5. vertistores, an Autolution project
+6. Learning node.js
+7. procrastinating ;)
 
 You can find a full list of my projects on [my portfolio](https://hyderite.dev/).
 
@@ -43,14 +44,14 @@ You can find a full list of my projects on [my portfolio](https://hyderite.dev/)
 
 **Libraries and Frameworks:**
 
-[React](https://react.dev/)
-
 [Express](https://expressjs.com/)
+
+[TypewriterJS](https://www.npmjs.com/package/typewriter-effect)
 
 **IDEs and code editors:**
 
-> ![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit)
 > ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+> ![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit)
 
 **Links:**
 
@@ -62,4 +63,4 @@ All of my links are in [my portfolio](https://hyderite.dev/#footer).
 
 **Fun fact: I don't pour milk when I eat cereal.**
 
-Updated January 2024
+Updated March 2024
