@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey there :)
 
-I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time front-end web developer, a "YouTuber", an aspiring airline pilot, and a high schooler. 
+I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time front-end web developer, an aspiring airline pilot, and a high schooler. 
 
 **Here are some projects that I'm currently working on:**
 
@@ -29,7 +29,7 @@ I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time fr
 6. Learning node.js
 7. procrastinating ;)
 
-You can find a full list of my projects on [my portfolio](https://hyderite.dev/).
+You can find a full list of my projects in [my portfolio](https://hyderite.dev/).
 
 **I know how to code in these languages :)**
 
@@ -62,5 +62,3 @@ All of my links are in [my portfolio](https://hyderite.dev/#footer).
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyderite&theme=shadow_red&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 **Fun fact: I don't pour milk when I eat cereal.**
-
-Updated March 2024
