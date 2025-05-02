@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey there :)
 
-I'm Hyderite. I go by he/him. I'm currently 15 (as of 2024). I am a part-time front-end web developer, an aspiring airline pilot, and a high schooler. 
+I'm Hyderite. I go by he/him. I'm currently 16 (as of 2025). I am a part-time front-end web developer, an aspiring airline pilot, and a high schooler. 
 
 **Here are some projects that I'm currently working on:**
 
@@ -51,7 +51,14 @@ You can find a full list of my projects in [my portfolio](https://hyderite.dev/)
 **IDEs and code editors:**
 
 > ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-> ![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit)
+> ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+> ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+> ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+> ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+> ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+> ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+> ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+> ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 **Links:**
 
