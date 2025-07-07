@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey there :)
 
-I'm Hyderite. I go by he/him. I'm currently 16 (as of 2025). I am a part-time front-end web developer, an aspiring airline pilot, and a high schooler. 
+I'm Hyderite. I go by he/him. I'm currently 17 (as of 2025). I am a part-time front-end web developer, an aspiring airline pilot, and a high schooler. 
 
 **Here are some projects that I'm currently working on:**
 
