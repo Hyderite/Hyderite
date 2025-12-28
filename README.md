@@ -213,8 +213,4 @@ you can find a full list of my projects in [my portfolio](https://hyderite.dev/)
 
 you can find them in [my portfolio](https://hyderite.dev/#footer).
 
-**stats:**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyderite&theme=shadow_red&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-
-**fun fact: i don't pour milk when i eat cereal.**
+**fun fact: i don't pour milk when i eat cereal. feel free to berate me in my DMs**
