@@ -21,9 +21,8 @@ just a guy
 
 1. [The Autolution website](https://autolution.vercel.app/)
 2. [My new portfolio](https://new.hyderite.dev/)
-3. Migrating from Replit to Vercel + VS Code + GitHub
-4. vertistores, an Autolution project
-5. Learning node.js
+3. vertistores, an Autolution project
+4. Learning node.js
 
 you can find a full list of my projects in [my portfolio](https://hyderite.dev/)
 
