@@ -213,4 +213,4 @@ you can find a full list of my projects in [my portfolio](https://hyderite.dev/)
 
 you can find them in [my portfolio](https://hyderite.dev/#footer).
 
-**fun fact: i dislike cereal
+**fun fact: i dislike cereal.**
