@@ -213,4 +213,4 @@ you can find a full list of my projects in [my portfolio](https://hyderite.dev/)
 
 you can find them in [my portfolio](https://hyderite.dev/#footer).
 
-**fun fact: i don't pour milk when i eat cereal. feel free to berate me in my DMs**
+**fun fact: i dislike cereal
