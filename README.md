@@ -42,7 +42,7 @@ you can find a full list of my projects in [my portfolio](https://hyderite.dev/)
 
 [Express](https://expressjs.com/)
 
-[TypewriterJS](https://www.npmjs.com/package/typewriter-effect)
+[React](https://react.dev/)
 
 **IDEs and code editors:**
 
