@@ -6,7 +6,7 @@
 2. [My new portfolio](https://new.hyderite.dev/)
 3. Learning node.js
 
-You can find a full list of my projects in [my portfolio](https://hyderite.dev/).
+You can find a full list of my projects on [my portfolio](https://hyderite.dev/).
 
 **I'm familiar with:**
 
