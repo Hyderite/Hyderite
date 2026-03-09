@@ -2,10 +2,9 @@
 
 **Here are some projects that I'm currently working on:**
 
-1. Moving projects to Nonic Cloud VPS
+1. [Aviatrak](https://github.com/Hyderite/Aviatrak), a privacy-first, community-driven and fully customizable flight tracker
 2. [My new portfolio](https://new.hyderite.dev/)
-3. vertistores, an Autolution project
-4. Learning node.js
+3. Learning node.js
 
 You can find a full list of my projects in [my portfolio](https://hyderite.dev/).
 
@@ -21,11 +20,15 @@ You can find a full list of my projects in [my portfolio](https://hyderite.dev/)
 > ![node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 > ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Libraries and frameworks I use:**
+**Services I use:**
 
 [Express](https://expressjs.com/)
 
 [React](https://react.dev/)
+
+[Nonic Cloud](https://nonic.cloud/)
+
+[Cloudflare](https://www.cloudflare.com/)
 
 **IDEs and code editors:**
 
