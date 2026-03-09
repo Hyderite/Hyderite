@@ -2,7 +2,7 @@
 
 **Here are some projects that I'm currently working on:**
 
-1. [The Autolution website](https://autolution.vercel.app/)
+1. Moving projects to Nonic Cloud VPS
 2. [My new portfolio](https://new.hyderite.dev/)
 3. vertistores, an Autolution project
 4. Learning node.js
