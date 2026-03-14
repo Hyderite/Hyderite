@@ -2,7 +2,7 @@
 
 **Here are some projects that I'm currently working on:**
 
-1. [Aviatrak](https://aviatrak.com), a privacy-first, community-driven and fully customizable flight tracker
+1. [Aviatrak](https://aviatrak.com/), a privacy-first, community-driven and fully customizable flight tracker
 2. [My new portfolio](https://new.hyderite.dev/)
 3. Learning node.js
 
@@ -24,7 +24,7 @@ You can find a full list of my projects on [my portfolio](https://hyderite.dev/)
 
 [Express](https://expressjs.com/)
 
-[React](https://react.dev/)
+[Fastify](https://fastify.dev/)
 
 [Nonic Cloud](https://nonic.cloud/)
 
