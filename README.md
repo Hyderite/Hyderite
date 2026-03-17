@@ -17,8 +17,8 @@ You can find a full list of my projects on [my portfolio](https://hyderite.dev/)
 
 **I'm learning:**
 
-> ![node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- > ![node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 > ![Golang](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffdd54)
 
 **Services I use:**
